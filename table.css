@@ -1,0 +1,29 @@
+
+
+table{
+
+
+    margin:20px;
+    
+    font-family:"Times New Roman";
+   width:2080px;
+  
+ 
+
+}
+
+th{
+    font-size:35px;
+    font-family:"Times New Roman";
+   margin:20px;
+   padding:20px;
+   background-color:#ddd;
+
+}
+td,td{
+    font-size:25px;
+    text-align:center;
+    font-family:"Times New Roman";
+    margin:20px;
+    padding:20px;
+}
